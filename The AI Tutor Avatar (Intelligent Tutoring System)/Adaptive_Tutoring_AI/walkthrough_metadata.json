@@ -1,44 +1,140 @@
 [
   {
-    "text": "The\n \nLogic\n \nPuzzle\n \nWalkthrough\n \nThis\n \ndocument\n \nprovides\n \na\n \nstep-by-step\n \nsolution\n \nto\n \nthe\n \n\"Three\n \nKnights\"\n \nlogic\n \npuzzle.\n \nThe\n \nPuzzle\n \nThree\n \nknights,\n \nSir\n \nReginald,\n \nSir\n \nPercival,\n \nand\n \nSir\n \nLancelot,\n \nare\n \nstanding\n \nin\n \na\n \nline.\n \nYou\n \nare\n \ntold\n \nthe\n \nfollowing:\n \n1.\n \nThe\n \nknight\n \non\n \nthe\n \nleft\n \nis\n \nwearing\n \na\n \nred\n \nshield.\n \n2.\n \nSir\n \nPercival\n \nis\n \nnot\n \nin\n \nthe\n \nmiddle.\n \n3.\n \nSir\n \nLancelot\n \nis\n \nto\n \nthe\n \nright\n \nof\n \nthe\n \nknigh",
+    "text": "The Logic Puzzle Walkthrough This document provides a step-by-step solution to the \"Three Knights\" logic puzzle. The",
     "filename": "quiz.pdf",
     "chunk_id": 0,
     "path": "./materials\\walkthrough\\quiz.pdf"
   },
   {
-    "text": "t\n \nwith\n \nthe\n \nred\n \nshield.\n \nWho\n \nis\n \nstanding\n \nin\n \nthe\n \nmiddle?\n \nWalkthrough\n \nStep\n \n1:\n \nLay\n \nout\n \nthe\n \nknown\n \nfacts.\n \nWe\n \nhave\n \nthree\n \npositions:\n \nLeft,\n \nMiddle,\n \nand\n \nRight.\n \n●\n \nFact\n \n1:\n \nThe\n \nknight\n \non\n \nthe\n \nLeft\n \nis\n \nthe\n \nRed\n \nShield\n \nKnight.\n \n●\n \nFact\n \n2:\n \nSir\n \nPercival\n \nis\n \nnot\n \nin\n \nthe\n \nMiddle.\n \n●\n \nFact\n \n3:\n \nSir\n \nLancelot\n \nis\n \nto\n \nthe\n \nright\n \nof\n \nthe\n \nRed\n \nShield\n \nKnight.\n \nStep\n \n2:\n \nUse\n \nthe\n \nmost\n \ndefinitive\n \nclues\n \nfi",
+    "text": "ogic puzzle. The Puzzle Three knights, Sir Reginald, Sir Percival, and Sir Lancelot, are standing in a line. You are",
     "filename": "quiz.pdf",
     "chunk_id": 1,
     "path": "./materials\\walkthrough\\quiz.pdf"
   },
   {
-    "text": "rst.\n \nFact\n \n1\n \nis\n \nthe\n \nmost\n \nstraightforward.\n \nWe\n \nknow\n \nthe\n \nknight\n \non\n \nthe\n \nleft\n \nis\n \nwearing\n \na\n \nred\n \nshield.\n \nWe\n \ndon't\n \nknow\n \nwhich\n \nknight\n \nthis\n \nis\n \nyet.\n \nFact\n \n3\n \nis\n \nalso\n \nvery\n \npowerful.\n \nSir\n \nLancelot\n \nis\n \nto\n \nthe\n \nright\n \nof\n \nthe\n \nRed\n \nShield\n \nKnight.\n \nSince\n \nwe\n \nknow\n \nthe\n \nRed\n \nShield\n \nKnight\n \nis\n \non\n \nthe\n \nLeft,\n \nthis\n \nmeans\n \nSir\n \nLancelot\n \nmust\n \nbe\n \nin\n \nthe\n \nMiddle\n \nor\n \non\n \nthe\n \nRight.\n \nStep\n \n3:\n \nCombine\n \nthe\n ",
+    "text": " a line. You are told the following: 1. The knight on the left is wearing a red shield. 2. Sir Percival is not in the",
     "filename": "quiz.pdf",
     "chunk_id": 2,
     "path": "./materials\\walkthrough\\quiz.pdf"
   },
   {
-    "text": "\nclues\n \nto\n \neliminate\n \npossibilities.\n \nLet's\n \ncombine\n \nFact\n \n1\n \nand\n \nFact\n \n3.\n \n●\n \nLeft\n \nPosition:\n \nRed\n \nShield\n \nKnight.\n \n●\n \nMiddle/Right\n \nPositions:\n \nSir\n \nLancelot\n \ncould\n \nbe\n \nin\n \neither.\n \nNow,\n \nlet's\n \nbring\n \nin\n \nFact\n \n2:\n \nSir\n \nPercival\n \nis\n \nnot\n \nin\n \nthe\n \nmiddle.\n \nThis\n \nmeans\n \nSir\n \nPercival\n \nmust\n \nbe\n \nin\n \nthe\n \nLeft\n \nor\n \nRight\n \nposition.\n \nStep\n \n4:\n \nDeduce\n \nthe\n \nfinal\n \narrangement.\n \nWe\n \nhave\n \nthe\n \nfollowing\n \nknowns:\n \n●\n \nThe\n \nLeft\n \npo",
+    "text": "val is not in the middle. 3. Sir Lancelot is to the right of the knight with the red shield. Who is standing in the",
     "filename": "quiz.pdf",
     "chunk_id": 3,
     "path": "./materials\\walkthrough\\quiz.pdf"
   },
   {
-    "text": "sition\n \nis\n \nthe\n \nRed\n \nShield\n \nKnight.\n \n●\n \nSir\n \nLancelot\n \nis\n \nin\n \nthe\n \nMiddle\n \nor\n \nRight\n \nposition.\n \n●\n \nSir\n \nPercival\n \nis\n \nin\n \nthe\n \nLeft\n \nor\n \nRight\n \nposition.\n \nSince\n \nthe\n \nLeft\n \nposition\n \nis\n \nalready\n \noccupied\n \nby\n \nthe\n \nRed\n \nShield\n \nKnight,\n \nSir\n \nPercival\n \ncannot\n \nbe\n \non\n \nthe\n \nleft.\n \nThis\n \nleaves\n \nonly\n \none\n \noption\n \nfor\n \nSir\n \nPercival:\n \nhe\n \nmust\n \nbe\n \non\n \nthe\n \nRight.\n \nNow\n \nwe\n \nknow:\n \n●\n \nRight\n \nPosition:\n \nSir\n \nPercival.\n \nWe\n \nare\n \n",
+    "text": "standing in the middle? Walkthrough Step 1: Lay out the known facts. We have three positions: Left, Middle, and Right.",
     "filename": "quiz.pdf",
     "chunk_id": 4,
     "path": "./materials\\walkthrough\\quiz.pdf"
   },
   {
-    "text": "left\n \nwith\n \ntwo\n \nknights\n \nand\n \ntwo\n \npositions:\n \nSir\n \nLancelot\n \nand\n \nthe\n \nMiddle\n \nposition.\n \nSir\n \nLancelot\n \nmust\n \nbe\n \nto\n \nthe\n \nright\n \nof\n \nthe\n \nRed\n \nShield\n \nKnight.\n \nWe've\n \nestablished\n \nSir\n \nPercival\n \nis\n \non\n \nthe\n \nfar\n \nright,\n \nso\n \nSir\n \nLancelot\n \ncannot\n \nbe\n \nthere.\n \nThis\n \nleaves\n \nonly\n \none\n \noption\n \nfor\n \nSir\n \nLancelot:\n \nhe\n \nmust\n \nbe\n \nin\n \nthe\n \nMiddle.\n \nThe\n \nfinal\n \narrangement\n \nis:\n \n●\n \nLeft:\n \nRed\n \nShield\n \nKnight\n \n(by\n \nelimination,\n \nthis\n",
+    "text": "Middle, and Right. ● Fact 1: The knight on the Left is the Red Shield Knight. ● Fact 2: Sir Percival is not in the Middle.",
     "filename": "quiz.pdf",
     "chunk_id": 5,
     "path": "./materials\\walkthrough\\quiz.pdf"
   },
   {
-    "text": " \nmust\n \nbe\n \nSir\n \nReginald)\n \n●\n \nMiddle:\n \nSir\n \nLancelot\n \n●\n \nRight:\n \nSir\n \nPercival\n \nConclusion\n \nBased\n \non\n \nthe\n \nprocess\n \nof\n \nelimination\n \nand\n \nlogical\n \ndeduction,\n \nSir\n \nLancelot\n \nis\n \nthe\n \nknight\n \nstanding\n \nin\n \nthe\n \nmiddle.\n \n",
+    "text": " is not in the Middle. ● Fact 3: Sir Lancelot is to the right of the Red Shield Knight. Step 2: Use the most definitive",
     "filename": "quiz.pdf",
     "chunk_id": 6,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "the most definitive clues first. Fact 1 is the most straightforward. We know the knight on the left is wearing a red",
+    "filename": "quiz.pdf",
+    "chunk_id": 7,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "is wearing a red shield. We don't know which knight this is yet. Fact 3 is also very powerful. Sir Lancelot is to the",
+    "filename": "quiz.pdf",
+    "chunk_id": 8,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "ancelot is to the right of the Red Shield Knight. Since we know the Red Shield Knight is on the Left, this means Sir",
+    "filename": "quiz.pdf",
+    "chunk_id": 9,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": ", this means Sir Lancelot must be in the Middle or on the Right. Step 3: Combine the clues to eliminate possibilities.",
+    "filename": "quiz.pdf",
+    "chunk_id": 10,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "ate possibilities. Let's combine Fact 1 and Fact 3. ● Left Position: Red Shield Knight. ● Middle/Right Positions: Sir",
+    "filename": "quiz.pdf",
+    "chunk_id": 11,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "ht Positions: Sir Lancelot could be in either. Now, let's bring in Fact 2: Sir Percival is not in the middle. This means",
+    "filename": "quiz.pdf",
+    "chunk_id": 12,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "e middle. This means Sir Percival must be in the Left or Right position. Step 4: Deduce the final arrangement. We have",
+    "filename": "quiz.pdf",
+    "chunk_id": 13,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "rangement. We have the following knowns: ● The Left position is the Red Shield Knight. ● Sir Lancelot is in the Middle",
+    "filename": "quiz.pdf",
+    "chunk_id": 14,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "t is in the Middle or Right position. ● Sir Percival is in the Left or Right position. Since the Left position is already",
+    "filename": "quiz.pdf",
+    "chunk_id": 15,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "t position is already occupied by the Red Shield Knight, Sir Percival cannot be on the left. This leaves only one option",
+    "filename": "quiz.pdf",
+    "chunk_id": 16,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "aves only one option for Sir Percival: he must be on the Right. Now we know: ● Right Position: Sir Percival. We are",
+    "filename": "quiz.pdf",
+    "chunk_id": 17,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "ercival. We are left with two knights and two positions: Sir Lancelot and the Middle position. Sir Lancelot must be",
+    "filename": "quiz.pdf",
+    "chunk_id": 18,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "ancelot must be to the right of the Red Shield Knight. We've established Sir Percival is on the far right, so Sir Lancelot",
+    "filename": "quiz.pdf",
+    "chunk_id": 19,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "right, so Sir Lancelot cannot be there. This leaves only one option for Sir Lancelot: he must be in the Middle. The",
+    "filename": "quiz.pdf",
+    "chunk_id": 20,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "the Middle. The final arrangement is: ● Left: Red Shield Knight (by elimination, this must be Sir Reginald) ● Middle:",
+    "filename": "quiz.pdf",
+    "chunk_id": 21,
+    "path": "./materials\\walkthrough\\quiz.pdf"
+  },
+  {
+    "text": "ginald) ● Middle: Sir Lancelot ● Right: Sir Percival Conclusion Based on the process of elimination and logical deduction,",
+    "filename": "quiz.pdf",
+    "chunk_id": 22,
     "path": "./materials\\walkthrough\\quiz.pdf"
   }
 ]

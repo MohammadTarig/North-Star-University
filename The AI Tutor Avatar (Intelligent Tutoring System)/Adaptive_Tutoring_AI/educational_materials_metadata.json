@@ -1,140 +1,488 @@
 [
   {
-    "text": "Physics\n \nLecture\n \n1:\n \nClassical\n \nMechanics\n \nIntroduction\n \nto\n \nNewtonian\n \nMechanics\n \nClassical\n \nmechanics\n \nis\n \nthe\n \nbranch\n \nof\n \nphysics\n \nthat\n \ndescribes\n \nthe\n \nmotion\n \nof\n \nmacroscopic\n \nobjects,\n \nfrom\n \nprojectiles\n \nto\n \nastronomical\n \nobjects,\n \nunder\n \nthe\n \ninfluence\n \nof\n \nforces.\n \nIt\n \nis\n \none\n \nof\n \nthe\n \noldest\n \nand\n \nlargest\n \nsubjects\n \nin\n \nscience,\n \nand\n \nit\n \nserves\n \nas\n \nthe\n \nfoundation\n \nfor\n \nmuch\n \nof\n \nmodern\n \ntechnology\n \nand\n \nengineering.\n \nKey\n \nC",
+    "text": "Physics Lecture 1: Classical Mechanics Introduction to Newtonian Mechanics Classical mechanics is the branch of physics",
     "filename": "lecture1.pdf",
     "chunk_id": 0,
     "path": "./materials\\educational_materials\\lecture1.pdf"
   },
   {
-    "text": "oncepts\n \nand\n \nFormulas\n \n●\n \nNewton's\n \nFirst\n \nLaw\n \n(Law\n \nof\n \nInertia):\n \nAn\n \nobject\n \nat\n \nrest\n \nstays\n \nat\n \nrest\n \nand\n \nan\n \nobject\n \nin\n \nmotion\n \nstays\n \nin\n \nmotion\n \nwith\n \nthe\n \nsame\n \nspeed\n \nand\n \nin\n \nthe\n \nsame\n \ndirection\n \nunless\n \nacted\n \nupon\n \nby\n \nan\n \nunbalanced\n \nforce.\n \n●\n \nNewton's\n \nSecond\n \nLaw\n \n(The\n \nLaw\n \nof\n \nAcceleration):\n \nThe\n \nacceleration\n \nof\n \nan\n \nobject\n \nas\n \nproduced\n \nby\n \na\n \nnet\n \nforce\n \nis\n \ndirectly\n \nproportional\n \nto\n \nthe\n \nmagnitude\n \n",
+    "text": "e branch of physics that describes the motion of macroscopic objects, from projectiles to astronomical objects, under",
     "filename": "lecture1.pdf",
     "chunk_id": 1,
     "path": "./materials\\educational_materials\\lecture1.pdf"
   },
   {
-    "text": "of\n \nthe\n \nnet\n \nforce,\n \nin\n \nthe\n \nsame\n \ndirection\n \nas\n \nthe\n \nnet\n \nforce,\n \nand\n \ninversely\n \nproportional\n \nto\n \nthe\n \nmass\n \nof\n \nthe\n \nobject.∑F=ma\n \nHere,\n \nF\n \nis\n \nthe\n \nnet\n \nforce,\n \nm\n \nis\n \nthe\n \nmass,\n \nand\n \na\n \nis\n \nthe\n \nacceleration.\n \nThis\n \nis\n \na\n \nvector\n \nequation,\n \nmeaning\n \nboth\n \nmagnitude\n \nand\n \ndirection\n \nmust\n \nbe\n \nconsidered.\n \n●\n \nNewton's\n \nThird\n \nLaw\n \n(Law\n \nof\n \nAction\n \nand\n \nReaction):\n \nFor\n \nevery\n \naction,\n \nthere\n \nis\n \nan\n \nequal\n \nand\n \nopposite",
+    "text": "al objects, under the influence of forces. It is one of the oldest and largest subjects in science, and it serves as",
     "filename": "lecture1.pdf",
     "chunk_id": 2,
     "path": "./materials\\educational_materials\\lecture1.pdf"
   },
   {
-    "text": "\n \nreaction.\n \nIf\n \nobject\n \nA\n \nexerts\n \na\n \nforce\n \non\n \nobject\n \nB,\n \nthen\n \nobject\n \nB\n \nmust\n \nexert\n \na\n \nforce\n \nof\n \nequal\n \nmagnitude\n \nand\n \nopposite\n \ndirection\n \nback\n \non\n \nobject\n \nA.FAB =−FBA \n \n●\n \nKinematic\n \nEquations:\n \nThese\n \nequations\n \ndescribe\n \nmotion\n \nwith\n \nconstant\n \nacceleration.v=v0 +atx=x0 +v0 t+21 at2v2=v02 +2a(x−x0 )\n \n○\n \nv\n \n=\n \nfinal\n \nvelocity\n \n○\n \nv0 \n \n=\n \ninitial\n \nvelocity\n \n○\n \na\n \n=\n \nconstant\n \nacceleration\n \n○\n \nt\n \n=\n \ntime\n \n○\n \nx\n \n=\n \nfinal\n \npo",
+    "text": "and it serves as the foundation for much of modern technology and engineering. Key Concepts and Formulas ● Newton's",
     "filename": "lecture1.pdf",
     "chunk_id": 3,
     "path": "./materials\\educational_materials\\lecture1.pdf"
   },
   {
-    "text": "sition\n \n○\n \nx0 \n \n=\n \ninitial\n \nposition\n \nMathematical\n \nExample\n \nProblem:\n \nProjectile\n \nMotion\n \nProblem:\n \nA\n \nball\n \nis\n \nthrown\n \nfrom\n \nthe\n \nground\n \nwith\n \nan\n \ninitial\n \nvelocity\n \nof\n \n20 m/s\n \nat\n \nan\n \nangle\n \nof\n \n30\n∘\n \nabove\n \nthe\n \nhorizontal.\n \nAssuming\n \nnegligible\n \nair\n \nresistance,\n \nwhat\n \nis\n \nthe\n \nmaximum\n \nheight\n \nthe\n \nball\n \nreaches?\n \nSolution:\n \n1.\n \nDeconstruct\n \nthe\n \ninitial\n \nvelocity:\n \nThe\n \ninitial\n \nvelocity\n \nvector\n \nv0 \n \nhas\n \nboth\n \na\n \nhorizontal\n ",
+    "text": "ulas ● Newton's First Law (Law of Inertia): An object at rest stays at rest and an object in motion stays in motion",
     "filename": "lecture1.pdf",
     "chunk_id": 4,
     "path": "./materials\\educational_materials\\lecture1.pdf"
   },
   {
-    "text": "\n(v0x )\n \nand\n \nvertical\n \n(v0y )\n \ncomponent.v0x =v0 cos(\nθ)=20\ncos(30\n∘\n)=17.32 m/sv0y =v0 sin(\nθ)=20\nsin(30\n∘\n)=10 m/s\n \n2.\n \nAnalyze\n \nvertical\n \nmotion:\n \nAt\n \nthe\n \nmaximum\n \nheight,\n \nthe\n \nvertical\n \nvelocity\n \nof\n \nthe\n \nball\n \nis\n \n0 m/s.\n \nWe\n \ncan\n \nuse\n \nthe\n \nkinematic\n \nequation\n \nv2=v02 +2a(x−x0 )\n \nto\n \nfind\n \nthe\n \nmaximum\n \nheight,\n \nymax .\n \nWe\n \nwill\n \nuse\n \nthe\n \nvertical\n \ncomponents\n \nfor\n \nthis\n \nanalysis.vy2 =v0y2 +2ay (ymax −y0 )\n \nWe\n \nknow:\n \n○\n \nvy =0 m/s\n \n(at\n \nth",
+    "text": "stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force. ● Newton's Second",
     "filename": "lecture1.pdf",
     "chunk_id": 5,
     "path": "./materials\\educational_materials\\lecture1.pdf"
   },
   {
-    "text": "e\n \npeak)\n \n○\n \nv0y =10 m/s\n \n○\n \nay =−9.8 m/s2\n \n(acceleration\n \ndue\n \nto\n \ngravity,\n \nnegative\n \nbecause\n \nit\n \nacts\n \ndownwards)\n \n○\n \ny0 =0 m\n \n(initial\n \nheight)\n \n3.\n \nSolve\n \nfor\n \nymax \n:\n02=(10)2+2(−9.8)(ymax −0)0=100−19.6ymax 19.6ymax =100ymax =19.6100 ≈5.1 m\n \nThe\n \nmaximum\n \nheight\n \nthe\n \nball\n \nreaches\n \nis\n \napproximately\n \n5.1\n \nmeters.\n \nThis\n \nconcludes\n \nour\n \nfirst\n \nlecture\n \non\n \nClassical\n \nMechanics.\n \n",
+    "text": "ce. ● Newton's Second Law (The Law of Acceleration): The acceleration of an object as produced by a net force is directly",
     "filename": "lecture1.pdf",
     "chunk_id": 6,
     "path": "./materials\\educational_materials\\lecture1.pdf"
   },
   {
-    "text": "Physics\n \nLecture\n \n2:\n \nElectromagnetism\n \nIntroduction\n \nto\n \nElectric\n \nFields\n \nand\n \nForces\n \nElectromagnetism\n \nis\n \nthe\n \nbranch\n \nof\n \nphysics\n \nconcerning\n \nthe\n \nstudy\n \nof\n \nthe\n \nelectromagnetic\n \nforce,\n \nwhich\n \nis\n \na\n \ntype\n \nof\n \nphysical\n \ninteraction\n \nthat\n \noccurs\n \nbetween\n \nelectrically\n \ncharged\n \nparticles.\n \nThis\n \nforce\n \nis\n \nthe\n \nfoundation\n \nof\n \nelectricity\n \nand\n \nmagnetism,\n \nas\n \nwell\n \nas\n \nthe\n \nbehavior\n \nof\n \nlight.\n \nKey\n \nConcepts\n \nand\n \nFormulas\n \n●\n \nC",
+    "text": "net force is directly proportional to the magnitude of the net force, in the same direction as the net force, and inversely",
+    "filename": "lecture1.pdf",
+    "chunk_id": 7,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": "et force, and inversely proportional to the mass of the object.∑F=ma Here, F is the net force, m is the mass, and a",
+    "filename": "lecture1.pdf",
+    "chunk_id": 8,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": "the mass, and a is the acceleration. This is a vector equation, meaning both magnitude and direction must be considered.",
+    "filename": "lecture1.pdf",
+    "chunk_id": 9,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": " must be considered. ● Newton's Third Law (Law of Action and Reaction): For every action, there is an equal and opposite",
+    "filename": "lecture1.pdf",
+    "chunk_id": 10,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": "n equal and opposite reaction. If object A exerts a force on object B, then object B must exert a force of equal magnitude",
+    "filename": "lecture1.pdf",
+    "chunk_id": 11,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": "rce of equal magnitude and opposite direction back on object A.FAB =−FBA ● Kinematic Equations: These equations describe",
+    "filename": "lecture1.pdf",
+    "chunk_id": 12,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": "e equations describe motion with constant acceleration.v=v0 +atx=x0 +v0 t+21 at2v2=v02 +2a(x−x0 ) ○ v = final velocity",
+    "filename": "lecture1.pdf",
+    "chunk_id": 13,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": "v = final velocity ○ v0 = initial velocity ○ a = constant acceleration ○ t = time ○ x = final position ○ x0 = initial",
+    "filename": "lecture1.pdf",
+    "chunk_id": 14,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": "on ○ x0 = initial position Mathematical Example Problem: Projectile Motion Problem: A ball is thrown from the ground",
+    "filename": "lecture1.pdf",
+    "chunk_id": 15,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": " from the ground with an initial velocity of 20 m/s at an angle of 30 ∘ above the horizontal. Assuming negligible air",
+    "filename": "lecture1.pdf",
+    "chunk_id": 16,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": "ng negligible air resistance, what is the maximum height the ball reaches? Solution: 1. Deconstruct the initial velocity:",
+    "filename": "lecture1.pdf",
+    "chunk_id": 17,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": "the initial velocity: The initial velocity vector v0 has both a horizontal (v0x ) and vertical (v0y ) component.v0x",
+    "filename": "lecture1.pdf",
+    "chunk_id": 18,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": ") component.v0x =v0 cos( θ)=20 cos(30 ∘ )=17.32 m/sv0y =v0 sin( θ)=20 sin(30 ∘ )=10 m/s 2. Analyze vertical motion:",
+    "filename": "lecture1.pdf",
+    "chunk_id": 19,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": "ertical motion: At the maximum height, the vertical velocity of the ball is 0 m/s. We can use the kinematic equation",
+    "filename": "lecture1.pdf",
+    "chunk_id": 20,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": "nematic equation v2=v02 +2a(x−x0 ) to find the maximum height, ymax . We will use the vertical components for this analysis.vy2",
+    "filename": "lecture1.pdf",
+    "chunk_id": 21,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": "nents for this analysis.vy2 =v0y2 +2ay (ymax −y0 ) We know: ○ vy =0 m/s (at the peak) ○ v0y =10 m/s ○ ay =−9.8 m/s2",
+    "filename": "lecture1.pdf",
+    "chunk_id": 22,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": "○ ay =−9.8 m/s2 (acceleration due to gravity, negative because it acts downwards) ○ y0 =0 m (initial height) 3. Solve",
+    "filename": "lecture1.pdf",
+    "chunk_id": 23,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": " height) 3. Solve for ymax : 02=(10)2+2(−9.8)(ymax −0)0=100−19.6ymax 19.6ymax =100ymax =19.6100 ≈5.1 m The maximum height",
+    "filename": "lecture1.pdf",
+    "chunk_id": 24,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": " m The maximum height the ball reaches is approximately 5.1 meters. This concludes our first lecture on Classical M",
+    "filename": "lecture1.pdf",
+    "chunk_id": 25,
+    "path": "./materials\\educational_materials\\lecture1.pdf"
+  },
+  {
+    "text": "Physics Lecture 2: Electromagnetism Introduction to Electric Fields and Forces Electromagnetism is the branch of physics",
     "filename": "lecture2.pdf",
     "chunk_id": 0,
     "path": "./materials\\educational_materials\\lecture2.pdf"
   },
   {
-    "text": "oulomb's\n \nLaw:\n \nDescribes\n \nthe\n \nelectrostatic\n \nforce\n \nbetween\n \ntwo\n \npoint\n \ncharges.F=kr2\n∣\nq1 q2 \n∣\n \n \n○\n \nF\n \n=\n \nelectrostatic\n \nforce\n \n○\n \nk\n \n=\n \nCoulomb's\n \nconstant,\n \n8.99×109 N⋅m2/C2\n \n○\n \nq1 ,q2 \n \n=\n \nmagnitudes\n \nof\n \nthe\n \ntwo\n \ncharges\n \n○\n \nr\n \n=\n \ndistance\n \nbetween\n \nthe\n \ncharges\n \n●\n \nElectric\n \nField:\n \nA\n \nvector\n \nfield\n \nthat\n \nsurrounds\n \nan\n \nelectric\n \ncharge\n \nand\n \nexerts\n \na\n \nforce\n \non\n \nother\n \ncharges.E=q0 F \n \nFor\n \na\n \npoint\n \ncharge,\n \nthe\n \nmagnitud",
+    "text": "he branch of physics concerning the study of the electromagnetic force, which is a type of physical interaction that",
     "filename": "lecture2.pdf",
     "chunk_id": 1,
     "path": "./materials\\educational_materials\\lecture2.pdf"
   },
   {
-    "text": "e\n \nof\n \nthe\n \nelectric\n \nfield\n \nis:E=kr2\n∣\nq\n∣\n \n \n●\n \nOhm's\n \nLaw:\n \nRelates\n \nvoltage,\n \ncurrent,\n \nand\n \nresistance\n \nin\n \nan\n \nelectrical\n \ncircuit.V=IR\n \n○\n \nV\n \n=\n \nvoltage\n \n(in\n \nVolts,\n \nV)\n \n○\n \nI\n \n=\n \ncurrent\n \n(in\n \nAmperes,\n \nA)\n \n○\n \nR\n \n=\n \nresistance\n \n(in\n \nOhms,\n \nΩ)\n \nMathematical\n \nExample\n \nProblem:\n \nElectric\n \nField\n \nProblem:\n \nTwo\n \npoint\n \ncharges,\n \nq1 =+2.0 nC\n \nand\n \nq2 =−3.0 nC,\n \nare\n \nseparated\n \nby\n \na\n \ndistance\n \nof\n \n0.05 m.\n \nFind\n \nthe\n \nmagnitude\n \nof\n \n",
+    "text": "interaction that occurs between electrically charged particles. This force is the foundation of electricity and magnetism,",
     "filename": "lecture2.pdf",
     "chunk_id": 2,
     "path": "./materials\\educational_materials\\lecture2.pdf"
   },
   {
-    "text": "the\n \nelectric\n \nfield\n \nat\n \na\n \npoint\n \nP\n \nlocated\n \nexactly\n \nhalfway\n \nbetween\n \nthem.\n \nSolution:\n \n1.\n \nIdentify\n \nthe\n \ncontributions\n \nfrom\n \neach\n \ncharge:\n \nThe\n \nelectric\n \nfield\n \nat\n \npoint\n \nP\n \nis\n \nthe\n \nvector\n \nsum\n \nof\n \nthe\n \nfields\n \nproduced\n \nby\n \neach\n \ncharge.\n \nThe\n \npoint\n \nP\n \nis\n \nr1 =r2 =0.025 m\n \nfrom\n \neach\n \ncharge.\n \n2.\n \nCalculate\n \nthe\n \nelectric\n \nfield\n \nfrom\n \nq1 \n \n(\nE1 \n):\n \nSince\n \nq1 \n \nis\n \npositive,\n \nits\n \nelectric\n \nfield\n \npoints\n \naway\n \nfrom\n \ni",
+    "text": "tricity and magnetism, as well as the behavior of light. Key Concepts and Formulas ● Coulomb's Law: Describes the electrostatic",
     "filename": "lecture2.pdf",
     "chunk_id": 3,
     "path": "./materials\\educational_materials\\lecture2.pdf"
   },
   {
-    "text": "t,\n \ntowards\n \nq2 .E1 =kr12 \n∣\nq1 \n∣\n =(8.99×109)(0.025)2\n∣\n2.0×10−9\n∣\n E1 =28784 N/C\n \n3.\n \nCalculate\n \nthe\n \nelectric\n \nfield\n \nfrom\n \nq2 \n \n(\nE2 \n):\n \nSince\n \nq2 \n \nis\n \nnegative,\n \nits\n \nelectric\n \nfield\n \npoints\n \ntowards\n \nit,\n \nalso\n \nin\n \nthe\n \nsame\n \ndirection\n \nas\n \nE1 .E2 =kr22 \n∣\nq2 \n∣\n =(8.99×109)(0.025)2\n∣\n−3.0×10−9\n∣\n E2 =43152 N/C\n \n4.\n \nFind\n \nthe\n \nnet\n \nelectric\n \nfield\n \n(\nEnet \n):\n \nSince\n \nboth\n \nfields\n \nare\n \nin\n \nthe\n \nsame\n \ndirection,\n \nwe\n \nsimply\n \nadd\n \ntheir\n \nmagn",
+    "text": "Describes the electrostatic force between two point charges.F=kr2 ∣ q1 q2 ∣ ○ F = electrostatic force ○ k = Coulomb's",
     "filename": "lecture2.pdf",
     "chunk_id": 4,
     "path": "./materials\\educational_materials\\lecture2.pdf"
   },
   {
-    "text": "itudes.Enet =E1 +E2 =28784+43152=71936 N/C\n \nThe\n \nnet\n \nelectric\n \nfield\n \nat\n \npoint\n \nP\n \nis\n \n71936 N/C\n \nand\n \npoints\n \nfrom\n \nq1 \n \ntowards\n \nq2 .\n \n",
+    "text": "e ○ k = Coulomb's constant, 8.99×109 N⋅m2/C2 ○ q1 ,q2 = magnitudes of the two charges ○ r = distance between the charges",
     "filename": "lecture2.pdf",
     "chunk_id": 5,
     "path": "./materials\\educational_materials\\lecture2.pdf"
   },
   {
-    "text": "Physics\n \nLecture\n \n3:\n \nThermodynamics\n \nIntroduction\n \nto\n \nthe\n \nLaws\n \nof\n \nThermodynamics\n \nThermodynamics\n \nis\n \nthe\n \nbranch\n \nof\n \nphysics\n \nthat\n \ndeals\n \nwith\n \nheat,\n \nwork,\n \nand\n \ntemperature,\n \nand\n \ntheir\n \nrelation\n \nto\n \nenergy,\n \nradiation,\n \nand\n \nthe\n \nphysical\n \nproperties\n \nof\n \nmatter.\n \nThe\n \nbehavior\n \nof\n \nthese\n \nquantities\n \nis\n \ngoverned\n \nby\n \nthe\n \nfour\n \nlaws\n \nof\n \nthermodynamics.\n \nKey\n \nConcepts\n \nand\n \nFormulas\n \n●\n \nZeroth\n \nLaw:\n \nIf\n \ntwo\n \nsystems\n \nare\n \n",
+    "text": " between the charges ● Electric Field: A vector field that surrounds an electric charge and exerts a force on other",
+    "filename": "lecture2.pdf",
+    "chunk_id": 6,
+    "path": "./materials\\educational_materials\\lecture2.pdf"
+  },
+  {
+    "text": " force on other charges.E=q0 F For a point charge, the magnitude of the electric field is:E=kr2 ∣ q ∣ ● Ohm's Law: Relates",
+    "filename": "lecture2.pdf",
+    "chunk_id": 7,
+    "path": "./materials\\educational_materials\\lecture2.pdf"
+  },
+  {
+    "text": "∣ ● Ohm's Law: Relates voltage, current, and resistance in an electrical circuit.V=IR ○ V = voltage (in Volts, V) ○",
+    "filename": "lecture2.pdf",
+    "chunk_id": 8,
+    "path": "./materials\\educational_materials\\lecture2.pdf"
+  },
+  {
+    "text": "(in Volts, V) ○ I = current (in Amperes, A) ○ R = resistance (in Ohms, Ω) Mathematical Example Problem: Electric Field",
+    "filename": "lecture2.pdf",
+    "chunk_id": 9,
+    "path": "./materials\\educational_materials\\lecture2.pdf"
+  },
+  {
+    "text": "em: Electric Field Problem: Two point charges, q1 =+2.0 nC and q2 =−3.0 nC, are separated by a distance of 0.05 m. Find",
+    "filename": "lecture2.pdf",
+    "chunk_id": 10,
+    "path": "./materials\\educational_materials\\lecture2.pdf"
+  },
+  {
+    "text": "nce of 0.05 m. Find the magnitude of the electric field at a point P located exactly halfway between them. Solution:",
+    "filename": "lecture2.pdf",
+    "chunk_id": 11,
+    "path": "./materials\\educational_materials\\lecture2.pdf"
+  },
+  {
+    "text": " them. Solution: 1. Identify the contributions from each charge: The electric field at point P is the vector sum of",
+    "filename": "lecture2.pdf",
+    "chunk_id": 12,
+    "path": "./materials\\educational_materials\\lecture2.pdf"
+  },
+  {
+    "text": "e vector sum of the fields produced by each charge. The point P is r1 =r2 =0.025 m from each charge. 2. Calculate the",
+    "filename": "lecture2.pdf",
+    "chunk_id": 13,
+    "path": "./materials\\educational_materials\\lecture2.pdf"
+  },
+  {
+    "text": " 2. Calculate the electric field from q1 ( E1 ): Since q1 is positive, its electric field points away from it, towards",
+    "filename": "lecture2.pdf",
+    "chunk_id": 14,
+    "path": "./materials\\educational_materials\\lecture2.pdf"
+  },
+  {
+    "text": "y from it, towards q2 .E1 =kr12 ∣ q1 ∣ =(8.99×109)(0.025)2 ∣ 2.0×10−9 ∣ E1 =28784 N/C 3. Calculate the electric field",
+    "filename": "lecture2.pdf",
+    "chunk_id": 15,
+    "path": "./materials\\educational_materials\\lecture2.pdf"
+  },
+  {
+    "text": "he electric field from q2 ( E2 ): Since q2 is negative, its electric field points towards it, also in the same direction",
+    "filename": "lecture2.pdf",
+    "chunk_id": 16,
+    "path": "./materials\\educational_materials\\lecture2.pdf"
+  },
+  {
+    "text": "n the same direction as E1 .E2 =kr22 ∣ q2 ∣ =(8.99×109)(0.025)2 ∣ −3.0×10−9 ∣ E2 =43152 N/C 4. Find the net electric",
+    "filename": "lecture2.pdf",
+    "chunk_id": 17,
+    "path": "./materials\\educational_materials\\lecture2.pdf"
+  },
+  {
+    "text": "the net electric field ( Enet ): Since both fields are in the same direction, we simply add their magnitudes.Enet =E1",
+    "filename": "lecture2.pdf",
+    "chunk_id": 18,
+    "path": "./materials\\educational_materials\\lecture2.pdf"
+  },
+  {
+    "text": "gnitudes.Enet =E1 +E2 =28784+43152=71936 N/C The net electric field at point P is 71936 N/C and points from q1 towards",
+    "filename": "lecture2.pdf",
+    "chunk_id": 19,
+    "path": "./materials\\educational_materials\\lecture2.pdf"
+  },
+  {
+    "text": "Physics Lecture 3: Thermodynamics Introduction to the Laws of Thermodynamics Thermodynamics is the branch of physics",
     "filename": "lecture3.pdf",
     "chunk_id": 0,
     "path": "./materials\\educational_materials\\lecture3.pdf"
   },
   {
-    "text": "each\n \nin\n \nthermal\n \nequilibrium\n \nwith\n \na\n \nthird\n \nsystem,\n \nthey\n \nare\n \nin\n \nthermal\n \nequilibrium\n \nwith\n \neach\n \nother.\n \nThis\n \nlaw\n \nestablishes\n \ntemperature\n \nas\n \na\n \nfundamental\n \nconcept.\n \n●\n \nFirst\n \nLaw:\n \nThe\n \nchange\n \nin\n \nthe\n \ninternal\n \nenergy\n \nof\n \na\n \nsystem\n \nis\n \nequal\n \nto\n \nthe\n \nheat\n \nadded\n \nto\n \nthe\n \nsystem\n \nminus\n \nthe\n \nwork\n \ndone\n \nby\n \nthe\n \nsystem\n \non\n \nits\n \nsurroundings.\nΔ\nU=Q−W\n \n○\n \nΔ\nU\n \n=\n \nchange\n \nin\n \ninternal\n \nenergy\n \n(in\n \nJoules,\n \nJ)\n \n○",
+    "text": "ranch of physics that deals with heat, work, and temperature, and their relation to energy, radiation, and the physical",
     "filename": "lecture3.pdf",
     "chunk_id": 1,
     "path": "./materials\\educational_materials\\lecture3.pdf"
   },
   {
-    "text": "\n \nQ\n \n=\n \nheat\n \nadded\n \nto\n \nthe\n \nsystem\n \n(in\n \nJoules,\n \nJ)\n \n○\n \nW\n \n=\n \nwork\n \ndone\n \nby\n \nthe\n \nsystem\n \n(in\n \nJoules,\n \nJ)\n \n●\n \nSecond\n \nLaw:\n \nThe\n \ntotal\n \nentropy\n \nof\n \nan\n \nisolated\n \nsystem\n \ncan\n \nnever\n \ndecrease\n \nover\n \ntime.\n \nIt\n \ncan\n \nremain\n \nconstant\n \nfor\n \nreversible\n \nprocesses,\n \nbut\n \nit\n \nmust\n \nincrease\n \nfor\n \nirreversible\n \nprocesses.\nΔ\nS≥0\n \n●\n \nThird\n \nLaw:\n \nThe\n \nentropy\n \nof\n \na\n \nsystem\n \napproaches\n \na\n \nconstant\n \nvalue\n \nas\n \nthe\n \ntemperature\n \napproa",
+    "text": "n, and the physical properties of matter. The behavior of these quantities is governed by the four laws of thermodynamics.",
     "filename": "lecture3.pdf",
     "chunk_id": 2,
     "path": "./materials\\educational_materials\\lecture3.pdf"
   },
   {
-    "text": "ches\n \nabsolute\n \nzero\n \n(0 K).\n \nMathematical\n \nExample\n \nProblem:\n \nFirst\n \nLaw\n \nof\n \nThermodynamics\n \nProblem:\n \nA\n \ngas\n \nin\n \na\n \ncylinder\n \nis\n \nheated\n \nwith\n \n400 J\n \nof\n \nenergy.\n \nThe\n \ngas\n \nexpands,\n \ndoing\n \n150 J\n \nof\n \nwork\n \non\n \nits\n \nsurroundings.\n \nWhat\n \nis\n \nthe\n \nchange\n \nin\n \nthe\n \ninternal\n \nenergy\n \nof\n \nthe\n \ngas?\n \nSolution:\n \n1.\n \nIdentify\n \nthe\n \ngiven\n \nvalues:\n \n○\n \nHeat\n \nadded\n \nto\n \nthe\n \nsystem,\n \nQ=+400 J\n \n(positive\n \nbecause\n \nheat\n \nis\n \nadded).\n \n○\n \nWork",
+    "text": "aws of thermodynamics. Key Concepts and Formulas ● Zeroth Law: If two systems are each in thermal equilibrium with a",
     "filename": "lecture3.pdf",
     "chunk_id": 3,
     "path": "./materials\\educational_materials\\lecture3.pdf"
   },
   {
-    "text": "\n \ndone\n \nby\n \nthe\n \nsystem,\n \nW=+150 J\n \n(positive\n \nbecause\n \nwork\n \nis\n \ndone\n \nby\n \nthe\n \nsystem).\n \n2.\n \nApply\n \nthe\n \nFirst\n \nLaw\n \nof\n \nThermodynamics:\nΔ\nU=Q−W\nΔ\nU=400 J−150 J\nΔ\nU=250 J\n \nThe\n \nchange\n \nin\n \nthe\n \ninternal\n \nenergy\n \nof\n \nthe\n \ngas\n \nis\n \n250 J.\n \nThis\n \nmeans\n \nthe\n \ninternal\n \nenergy\n \nof\n \nthe\n \ngas\n \nhas\n \nincreased.\n \n",
+    "text": "uilibrium with a third system, they are in thermal equilibrium with each other. This law establishes temperature as",
     "filename": "lecture3.pdf",
     "chunk_id": 4,
     "path": "./materials\\educational_materials\\lecture3.pdf"
   },
   {
-    "text": "Physics\n \nLecture\n \n4:\n \nQuantum\n \nPhysics\n \nIntroduction\n \nto\n \nthe\n \nQuantum\n \nWorld\n \nQuantum\n \nmechanics\n \nis\n \nthe\n \nfundamental\n \ntheory\n \nin\n \nphysics\n \nthat\n \nprovides\n \na\n \ndescription\n \nof\n \nthe\n \nphysical\n \nproperties\n \nof\n \nnature\n \nat\n \nthe\n \nscale\n \nof\n \natoms\n \nand\n \nsubatomic\n \nparticles.\n \nIt\n \nis\n \nthe\n \nbasis\n \nfor\n \nunderstanding\n \nthe\n \nbehavior\n \nof\n \nmatter\n \nand\n \nlight\n \nat\n \nthe\n \nmicroscopic\n \nlevel.\n \nKey\n \nConcepts\n \nand\n \nFormulas\n \n●\n \nQuantization\n \nof\n \nEnergy:\n ",
+    "text": " temperature as a fundamental concept. ● First Law: The change in the internal energy of a system is equal to the heat",
+    "filename": "lecture3.pdf",
+    "chunk_id": 5,
+    "path": "./materials\\educational_materials\\lecture3.pdf"
+  },
+  {
+    "text": " equal to the heat added to the system minus the work done by the system on its surroundings. Δ U=Q−W ○ Δ U = change",
+    "filename": "lecture3.pdf",
+    "chunk_id": 6,
+    "path": "./materials\\educational_materials\\lecture3.pdf"
+  },
+  {
+    "text": "W ○ Δ U = change in internal energy (in Joules, J) ○ Q = heat added to the system (in Joules, J) ○ W = work done by",
+    "filename": "lecture3.pdf",
+    "chunk_id": 7,
+    "path": "./materials\\educational_materials\\lecture3.pdf"
+  },
+  {
+    "text": " = work done by the system (in Joules, J) ● Second Law: The total entropy of an isolated system can never decrease over",
+    "filename": "lecture3.pdf",
+    "chunk_id": 8,
+    "path": "./materials\\educational_materials\\lecture3.pdf"
+  },
+  {
+    "text": "never decrease over time. It can remain constant for reversible processes, but it must increase for irreversible processes.",
+    "filename": "lecture3.pdf",
+    "chunk_id": 9,
+    "path": "./materials\\educational_materials\\lecture3.pdf"
+  },
+  {
+    "text": "irreversible processes. Δ S≥0 ● Third Law: The entropy of a system approaches a constant value as the temperature approaches",
+    "filename": "lecture3.pdf",
+    "chunk_id": 10,
+    "path": "./materials\\educational_materials\\lecture3.pdf"
+  },
+  {
+    "text": "e temperature approaches absolute zero (0 K). Mathematical Example Problem: First Law of Thermodynamics Problem: A gas",
+    "filename": "lecture3.pdf",
+    "chunk_id": 11,
+    "path": "./materials\\educational_materials\\lecture3.pdf"
+  },
+  {
+    "text": "ics Problem: A gas in a cylinder is heated with 400 J of energy. The gas expands, doing 150 J of work on its surroundings.",
+    "filename": "lecture3.pdf",
+    "chunk_id": 12,
+    "path": "./materials\\educational_materials\\lecture3.pdf"
+  },
+  {
+    "text": "k on its surroundings. What is the change in the internal energy of the gas? Solution: 1. Identify the given values:",
+    "filename": "lecture3.pdf",
+    "chunk_id": 13,
+    "path": "./materials\\educational_materials\\lecture3.pdf"
+  },
+  {
+    "text": "he given values: ○ Heat added to the system, Q=+400 J (positive because heat is added). ○ Work done by the system, W=+150",
+    "filename": "lecture3.pdf",
+    "chunk_id": 14,
+    "path": "./materials\\educational_materials\\lecture3.pdf"
+  },
+  {
+    "text": "by the system, W=+150 J (positive because work is done by the system). 2. Apply the First Law of Thermodynamics: Δ U=Q−W",
+    "filename": "lecture3.pdf",
+    "chunk_id": 15,
+    "path": "./materials\\educational_materials\\lecture3.pdf"
+  },
+  {
+    "text": "rmodynamics: Δ U=Q−W Δ U=400 J−150 J Δ U=250 J The change in the internal energy of the gas is 250 J. This means the",
+    "filename": "lecture3.pdf",
+    "chunk_id": 16,
+    "path": "./materials\\educational_materials\\lecture3.pdf"
+  },
+  {
+    "text": "Physics Lecture 4: Quantum Physics Introduction to the Quantum World Quantum mechanics is the fundamental theory in",
     "filename": "lecture4.pdf",
     "chunk_id": 0,
     "path": "./materials\\educational_materials\\lecture4.pdf"
   },
   {
-    "text": "\nEnergy\n \nis\n \nnot\n \ncontinuous\n \nbut\n \nexists\n \nin\n \ndiscrete\n \npackets\n \ncalled\n \nquanta.\n \nFor\n \na\n \nphoton,\n \nthe\n \nenergy\n \nis\n \nproportional\n \nto\n \nits\n \nfrequency.E=hf\n \n○\n \nE\n \n=\n \nenergy\n \nof\n \nthe\n \nphoton\n \n○\n \nh\n \n=\n \nPlanck's\n \nconstant\n \n(6.626×10−34 J⋅s)\n \n○\n \nf\n \n=\n \nfrequency\n \nof\n \nthe\n \nphoton\n \n●\n \nWave-Particle\n \nDuality:\n \nQuantum\n \nobjects\n \nexhibit\n \nproperties\n \nof\n \nboth\n \nwaves\n \nand\n \nparticles.\n \nThe\n \nde\n \nBroglie\n \nwavelength\n \nfor\n \na\n \nparticle\n \nis\n \ngiven\n \nby:",
+    "text": "ental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic",
     "filename": "lecture4.pdf",
     "chunk_id": 1,
     "path": "./materials\\educational_materials\\lecture4.pdf"
   },
   {
-    "text": "\nλ=\nph =mvh \n \n○\n \nλ\n \n=\n \nde\n \nBroglie\n \nwavelength\n \n○\n \np\n \n=\n \nmomentum\n \n○\n \nm\n \n=\n \nmass\n \n○\n \nv\n \n=\n \nvelocity\n \n●\n \nHeisenberg's\n \nUncertainty\n \nPrinciple:\n \nIt\n \nis\n \nimpossible\n \nto\n \nsimultaneously\n \nmeasure\n \nwith\n \nperfect\n \naccuracy\n \nthe\n \nposition\n \nand\n \nmomentum\n \nof\n \na\n \nparticle.\nΔ\nx\nΔ\np≥2\nℏ\n \n \n○\n \nΔ\nx\n \n=\n \nuncertainty\n \nin\n \nposition\n \n○\n \nΔ\np\n \n=\n \nuncertainty\n \nin\n \nmomentum\n \n○\n \nℏ\n \n=\n \nreduced\n \nPlanck's\n \nconstant\n \n(2π\nh )\n \nMathematical\n \nExample\n \nProblem:\n \nPhot",
+    "text": "e of atoms and subatomic particles. It is the basis for understanding the behavior of matter and light at the microscopic",
     "filename": "lecture4.pdf",
     "chunk_id": 2,
     "path": "./materials\\educational_materials\\lecture4.pdf"
   },
   {
-    "text": "oelectric\n \nEffect\n \nProblem:\n \nA\n \nmetal\n \nsurface\n \nwith\n \na\n \nwork\n \nfunction\n \nof\n \nΦ=2.5 \neV\n \nis\n \nilluminated\n \nby\n \nlight\n \nwith\n \na\n \nfrequency\n \nof\n \n1.0×1015 Hz.\n \nWhat\n \nis\n \nthe\n \nmaximum\n \nkinetic\n \nenergy\n \nof\n \nthe\n \nemitted\n \nphotoelectrons?\n \nSolution:\n \n1.\n \nConvert\n \nwork\n \nfunction\n \nto\n \nJoules:\n \nWe\n \nneed\n \nto\n \nuse\n \nconsistent\n \nunits.\nΦ=2.5 \neV×(1.602×10−19 J/eV)=4.005×10−19 J\n \n2.\n \nCalculate\n \nthe\n \nenergy\n \nof\n \nthe\n \nincident\n \nphotons\n \n(\nEphoton \n):\nEphoton =hf=(",
+    "text": "ht at the microscopic level. Key Concepts and Formulas ● Quantization of Energy: Energy is not continuous but exists",
     "filename": "lecture4.pdf",
     "chunk_id": 3,
     "path": "./materials\\educational_materials\\lecture4.pdf"
   },
   {
-    "text": "6.626×10−34 J⋅s)×(1.0×1015 Hz)Ephoton =6.626×10−19 J\n \n3.\n \nApply\n \nthe\n \nphotoelectric\n \neffect\n \nequation:\n \nThe\n \nmaximum\n \nkinetic\n \nenergy\n \n(Kmax )\n \nis\n \nthe\n \ndifference\n \nbetween\n \nthe\n \nphoton\n \nenergy\n \nand\n \nthe\n \nwork\n \nfunction.Kmax =Ephoton −\nΦ\nKmax =(6.626×10−19 J)−(4.005×10−19 J)Kmax =2.621×10−19 J\n \nThe\n \nmaximum\n \nkinetic\n \nenergy\n \nof\n \nthe\n \nemitted\n \nphotoelectrons\n \nis\n \n2.621×10−19 J.\n \n",
+    "text": "nuous but exists in discrete packets called quanta. For a photon, the energy is proportional to its frequency.E=hf ○",
     "filename": "lecture4.pdf",
     "chunk_id": 4,
+    "path": "./materials\\educational_materials\\lecture4.pdf"
+  },
+  {
+    "text": "frequency.E=hf ○ E = energy of the photon ○ h = Planck's constant (6.626×10−34 J⋅s) ○ f = frequency of the photon ●",
+    "filename": "lecture4.pdf",
+    "chunk_id": 5,
+    "path": "./materials\\educational_materials\\lecture4.pdf"
+  },
+  {
+    "text": "of the photon ● Wave-Particle Duality: Quantum objects exhibit properties of both waves and particles. The de Broglie",
+    "filename": "lecture4.pdf",
+    "chunk_id": 6,
+    "path": "./materials\\educational_materials\\lecture4.pdf"
+  },
+  {
+    "text": "s. The de Broglie wavelength for a particle is given by: λ= ph =mvh ○ λ = de Broglie wavelength ○ p = momentum ○ m =",
+    "filename": "lecture4.pdf",
+    "chunk_id": 7,
+    "path": "./materials\\educational_materials\\lecture4.pdf"
+  },
+  {
+    "text": "= momentum ○ m = mass ○ v = velocity ● Heisenberg's Uncertainty Principle: It is impossible to simultaneously measure",
+    "filename": "lecture4.pdf",
+    "chunk_id": 8,
+    "path": "./materials\\educational_materials\\lecture4.pdf"
+  },
+  {
+    "text": "taneously measure with perfect accuracy the position and momentum of a particle. Δ x Δ p≥2 ℏ ○ Δ x = uncertainty in",
+    "filename": "lecture4.pdf",
+    "chunk_id": 9,
+    "path": "./materials\\educational_materials\\lecture4.pdf"
+  },
+  {
+    "text": " uncertainty in position ○ Δ p = uncertainty in momentum ○ ℏ = reduced Planck's constant (2π h ) Mathematical Example",
+    "filename": "lecture4.pdf",
+    "chunk_id": 10,
+    "path": "./materials\\educational_materials\\lecture4.pdf"
+  },
+  {
+    "text": "hematical Example Problem: Photoelectric Effect Problem: A metal surface with a work function of Φ=2.5 eV is illuminated",
+    "filename": "lecture4.pdf",
+    "chunk_id": 11,
+    "path": "./materials\\educational_materials\\lecture4.pdf"
+  },
+  {
+    "text": ".5 eV is illuminated by light with a frequency of 1.0×1015 Hz. What is the maximum kinetic energy of the emitted photoelectrons?",
+    "filename": "lecture4.pdf",
+    "chunk_id": 12,
+    "path": "./materials\\educational_materials\\lecture4.pdf"
+  },
+  {
+    "text": " the emitted photoelectrons? Solution: 1. Convert work function to Joules: We need to use consistent units. Φ=2.5 eV×(1.602×10−19",
+    "filename": "lecture4.pdf",
+    "chunk_id": 13,
+    "path": "./materials\\educational_materials\\lecture4.pdf"
+  },
+  {
+    "text": " units. Φ=2.5 eV×(1.602×10−19 J/eV)=4.005×10−19 J 2. Calculate the energy of the incident photons ( Ephoton ): Ephoton",
+    "filename": "lecture4.pdf",
+    "chunk_id": 14,
+    "path": "./materials\\educational_materials\\lecture4.pdf"
+  },
+  {
+    "text": "Ephoton ): Ephoton =hf=(6.626×10−34 J⋅s)×(1.0×1015 Hz)Ephoton =6.626×10−19 J 3. Apply the photoelectric effect equation:",
+    "filename": "lecture4.pdf",
+    "chunk_id": 15,
+    "path": "./materials\\educational_materials\\lecture4.pdf"
+  },
+  {
+    "text": "ric effect equation: The maximum kinetic energy (Kmax ) is the difference between the photon energy and the work function.Kmax",
+    "filename": "lecture4.pdf",
+    "chunk_id": 16,
+    "path": "./materials\\educational_materials\\lecture4.pdf"
+  },
+  {
+    "text": "and the work function.Kmax =Ephoton − Φ Kmax =(6.626×10−19 J)−(4.005×10−19 J)Kmax =2.621×10−19 J The maximum kinetic",
+    "filename": "lecture4.pdf",
+    "chunk_id": 17,
     "path": "./materials\\educational_materials\\lecture4.pdf"
   }
 ]
