@@ -15,7 +15,7 @@ def run_pipeline():
     scraper = JobScraper(output_file=f"jobs.json")
     
     jobs = scraper.scrape_jobs({
-        "query": "AI Engineer", # example query
+        "query": "AI Engineer",
         "page": "1",
         "num_pages": "1",
         "country": "US",
