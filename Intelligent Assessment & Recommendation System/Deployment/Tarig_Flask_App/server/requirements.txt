@@ -1,7 +1,0 @@
-flask
-haystack-ai==2.2.0
-json-repair
-pytesseract
-Pillow
-python-dotenv
-google-genai

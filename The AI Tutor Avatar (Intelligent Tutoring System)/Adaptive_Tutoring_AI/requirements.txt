@@ -1,9 +1,0 @@
-sentence-transformers
-faiss-cpu
-numpy
-python-docx
-PyPDF2
-python-dotenv
-google-generativeai
-flask
-bert-score

@@ -1,7 +1,0 @@
-{
-  "title": "Basic Data Cleaning",
-  "level": "Beginner",
-  "description": "Learn how to clean and preprocess simple tabular datasets.",
-  "required_tools": "pandas",
-  "dataset": true
-}
